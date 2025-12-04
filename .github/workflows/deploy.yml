@@ -23,7 +23,7 @@ jobs:
         with:
           dotnet-version: '9.0.x'
       - run: |
-          cd api
+          cd api/HomeLibrary.Api
           dotnet build -o dist
       # Install Node.js and build the application
       - uses: actions/setup-node@v3
