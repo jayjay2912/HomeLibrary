@@ -31,6 +31,7 @@ jobs:
           skip_app_build: false
           app_location: "./ui" # Location of the built application
           output_location: "dist/home-library/browser"
+          app_build_command: "npm run build"
           # API
           skip_api_build: false
           api_location: "./api"
