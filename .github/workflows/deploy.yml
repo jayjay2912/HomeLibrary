@@ -11,6 +11,9 @@ on:
 
 jobs:
   build_and_deploy_job:
+    concurrency:
+      group: "deploy"
+      cancel-in-progress: false
     runs-on: ubuntu-latest
     name: Build and Deploy to Azure Static Web App
     permissions:
