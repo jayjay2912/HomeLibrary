@@ -1,4 +1,4 @@
-name: Azure Static Web Apps CI/CD
+name: Build & Deploy
 
 on:
   push:
@@ -8,37 +8,43 @@ on:
 jobs:
   build_and_deploy_job:
     runs-on: ubuntu-latest
-    name: Build and Deploy Job
+    name: Build and Deploy to Azure Static Web App
     permissions:
        id-token: write
        contents: read
     steps:
+      # Checkout the repo
       - uses: actions/checkout@v3
         with:
           submodules: true
           lfs: false
-      - name: Install OIDC Client from Core Package
-        run: npm install @actions/core@1.6.0 @actions/http-client
-      - name: Get Id Token
-        uses: actions/github-script@v6
-        id: idtoken
+      # Install .Net and build the application
+      - uses: actions/setup-dotnet@v5
         with:
-           script: |
-               const coredemo = require('@actions/core')
-               return await coredemo.getIDToken()
-           result-encoding: string
-      - name: Build And Deploy
+          dotnet-version: '9.0.x'
+      - run: |
+          cd api
+          dotnet build -o dist
+      # Install Node.js and build the application
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '22.x'
+      - run: |
+          cd ui
+          npm ci
+          npm run build
+      # Deploy the application to Azure Static Web Apps
+      - name: Deploy
         id: builddeploy
         uses: Azure/static-web-apps-deploy@v1
         with:
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN }}
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           action: "upload"
-          ###### Repository/Build Configurations - These values can be configured to match your app requirements. ######
           # For more information regarding Static Web App workflow configurations, please visit: https://aka.ms/swaworkflowconfig
-          app_location: "./ui" # App source code path
-          app_build_command: "npm ci && npm run build" # App build command
-          output_location: "dist/home-library/browser" # Built app content directory - optional
-          api_location: "./api" # Api source code path - optional
-          api_build_command: "dotnet build" # Api build command - optional
-          ###### End of Repository/Build Configurations ######
+          app_location: "./ui/dist/home-library/browser" # Location of the built application
+          output_location: "" # Must be blank for pre-built apps
+          api_location: "./api/dist" # Api source code path - optional
+          # Skip build commands, we do it ourselves
+          skip_app_build: true
+          skip_api_build: true

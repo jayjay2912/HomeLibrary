@@ -3,6 +3,13 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# Compiled output
+/ui/dist
+/api/*/dist
+/tmp
+/out-tsc
+/bazel-out
+
 # User-specific files
 *.suo
 *.user
@@ -287,5 +294,8 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+
+# Angular
+.angular
 
 appsettings.json
