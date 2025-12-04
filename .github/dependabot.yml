@@ -1,0 +1,20 @@
+
+version: 2
+updates:
+  # Enable version updates for npm
+  - package-ecosystem: "npm"
+    directory: "/ui"
+    schedule:
+      interval: "monthly"
+
+  # Enable version updates for Nuget
+  - package-ecosystem: "nuget"
+    directory: "/api"
+    schedule:
+      interval: "monthly"
+
+  # Enable version updates for GitHub Actions
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "monthly"
