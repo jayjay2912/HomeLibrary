@@ -18,22 +18,8 @@ jobs:
         with:
           submodules: true
           lfs: false
-      # Install .Net and build the application
-      - uses: actions/setup-dotnet@v5
-        with:
-          dotnet-version: '9.0.x'
-      - run: |
-          cd api/HomeLibrary.Api
-          dotnet build -o dist
-      # Install Node.js and build the application
-      - uses: actions/setup-node@v3
-        with:
-          node-version: '22.x'
-      - run: |
-          cd ui
-          npm ci
-          npm run build
       # Deploy the application to Azure Static Web Apps
+      # For more information regarding Static Web App workflow configurations, please visit: https://aka.ms/swaworkflowconfig
       - name: Deploy
         id: builddeploy
         uses: Azure/static-web-apps-deploy@v1
@@ -41,10 +27,10 @@ jobs:
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN }}
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           action: "upload"
-          # For more information regarding Static Web App workflow configurations, please visit: https://aka.ms/swaworkflowconfig
-          app_location: "./ui/dist/home-library/browser" # Location of the built application
-          output_location: "" # Must be blank for pre-built apps
-          api_location: "./api/dist" # Api source code path - optional
-          # Skip build commands, we do it ourselves
-          skip_app_build: true
-          skip_api_build: true
+          # App
+          skip_app_build: false
+          app_location: "./ui" # Location of the built application
+          output_location: "dist/home-library/browser"
+          # API
+          skip_api_build: false
+          api_location: "./api"
