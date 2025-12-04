@@ -5,5 +5,8 @@ namespace Gemstone.HomeLibrary.Models;
 /// </summary>
 public class Book
 {
+    /// <summary>
+    ///     The book title.
+    /// </summary>
     public required string Title { get; set; }
 }

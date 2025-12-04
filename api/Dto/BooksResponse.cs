@@ -7,5 +7,8 @@ namespace Gemstone.HomeLibrary.Dto;
 /// </summary>
 public class BooksResponse : BaseResponse
 {
-    public required Book[] Books { get; set; }
+    /// <summary>
+    ///     The full list of books in the library.
+    /// </summary>
+    public required ICollection<Book> Books { get; set; }
 }

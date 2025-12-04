@@ -1,0 +1,33 @@
+name: Pull Requset
+
+on:
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Build the application
+    permissions:
+       contents: read
+    steps:
+      # Checkout the repo
+      - uses: actions/checkout@v3
+      # Install the required Node & .Net versions
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '22'
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '8.0.x'
+      # Build the application to ensure it builds successfully
+      - name: Build Application
+        working-directory: ./ui
+        run: |
+          npm ci
+          npm run build
+      - name: Build API
+        working-directory: ./api
+        run: |
+          dotnet build

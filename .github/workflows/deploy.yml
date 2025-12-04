@@ -1,23 +1,23 @@
 name: Build & Deploy
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
+    paths:
+      - 'ui/**'
+      - 'api/**'
 
 jobs:
   build_and_deploy_job:
     runs-on: ubuntu-latest
     name: Build and Deploy to Azure Static Web App
     permissions:
-       id-token: write
        contents: read
     steps:
       # Checkout the repo
       - uses: actions/checkout@v3
-        with:
-          submodules: true
-          lfs: false
       # Deploy the application to Azure Static Web Apps
       # For more information regarding Static Web App workflow configurations, please visit: https://aka.ms/swaworkflowconfig
       - name: Deploy
