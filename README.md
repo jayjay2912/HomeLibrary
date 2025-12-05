@@ -13,7 +13,7 @@ swa start
 
 ## UI
 
-The UI is an Anglar application hosted in a Static Web App.
+The UI is an Angular application hosted in a Static Web App.
 
 ## API
 
