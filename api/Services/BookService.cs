@@ -21,8 +21,7 @@ public class BookService(IServiceProvider services, ILogger<BookService> logger)
 
         // apply a sensible default ordering to the list
         books = books
-            .OrderBy(b => b.ShelfLocation ?? "99999")
-            .ThenBy(b => b.Author)
+            .OrderBy(b => b.Author)
             .ThenBy(b => b.Title)
             .ToList();
 
