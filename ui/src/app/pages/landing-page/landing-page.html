@@ -1,0 +1,38 @@
+<div class="card w-full">
+  <p-table
+    #libraryTable
+    dataKey="title"
+    [value]="library?.books ?? []"
+    (onLazyLoad)="getLibrary()"
+    [lazy]="true"
+    [globalFilterFields]="['title', 'author', 'shelfLocation']"
+    class="w-full">
+    <ng-template #caption>
+        <div class="flex w-full">
+            <input pInputText type="text" (input)="libraryTable.filterGlobal($event.target?.value, 'contains')" placeholder="Search keyword" class="ml-auto sm:w-100 w-full"/>
+        </div>
+    </ng-template>
+    <ng-template #header>
+      <tr>
+        <th>Book</th>
+        <th class="hidden sm:table-cell">Shelf</th>
+        <th>Read By</th>
+      </tr>
+    </ng-template>
+    <ng-template #body let-book>
+      <tr>
+        <td>
+          <span>{{ book.title }}</span> <br/>
+          <span class="font-light text-sm">{{ book.author }}</span>
+        </td>
+        <td class="hidden sm:table-cell">
+          {{ book.shelfLocation ?? '-' }}
+        </td>
+        <td>
+          <p-tag [severity]="book.isReadByJay ? 'success' : 'secondary'" value="Jay" class="me-2"/>
+          <p-tag [severity]="book.isReadByGemma ? 'success' : 'secondary'" value="Gemma" class="mt-2 md:mt-0"/>
+        </td>
+      </tr>
+    </ng-template>
+  </p-table>
+</div>
