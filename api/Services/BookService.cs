@@ -36,7 +36,10 @@ public class BookService(IServiceProvider services, ILogger<BookService> logger)
     private ICollection<Book> LoadBooks()
     {
         // try and load from the book JSON data source (it will be readonly until we have a database backing the service).
-        var path = Environment.GetEnvironmentVariable("HOME") + @"\site\wwwroot\books.json";
+        // locally, we can force the location of the file path using `ForceBooksFilePath` in `local.settings.json`.
+        // when running in a Function app, use the recommended path.
+        var path = Environment.GetEnvironmentVariable("ForceBooksFilePath") ??
+                   Environment.GetEnvironmentVariable("HOME") + @"\site\wwwroot\books.json";
         var books = JsonSerializer
             .Deserialize<ICollection<Book>>(File.ReadAllText(path)) ?? new List<Book>();
 

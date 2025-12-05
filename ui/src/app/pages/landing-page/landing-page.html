@@ -2,7 +2,7 @@
   <p-table
     #libraryTable
     [globalFilterFields]="['title', 'author', 'shelfLocation']"
-    [value]="library().books ?? []"
+    [value]="library().books"
     class="w-full"
     dataKey="title">
     <ng-template #caption>
