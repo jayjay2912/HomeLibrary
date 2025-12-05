@@ -1,12 +1,11 @@
-import {AfterContentInit, AfterViewInit, Component, DestroyRef, inject, OnInit} from '@angular/core';
+import {Component, DestroyRef, inject} from '@angular/core';
 import {TableModule} from 'primeng/table';
 import {FormsModule} from '@angular/forms';
 import {Tag} from 'primeng/tag';
 import {InputText} from 'primeng/inputtext';
 import {LibraryService} from '../../services/library-service';
-import {Book} from '../../interfaces/book';
 import {takeUntilDestroyed} from '@angular/core/rxjs-interop';
-import {delay, distinctUntilChanged, tap} from 'rxjs';
+import {distinctUntilChanged} from 'rxjs';
 import {LibraryResponse} from '../../interfaces/library-response';
 
 @Component({
@@ -17,17 +16,15 @@ import {LibraryResponse} from '../../interfaces/library-response';
     Tag,
     InputText,
   ],
-  templateUrl: './landing-page.html',
-  styleUrl: './landing-page.css',
+  templateUrl: './landing-page.html'
 })
 export class LandingPage {
-  private readonly _library = inject(LibraryService);
-  private destroyRef = inject(DestroyRef);
-
   /**
    * The library
    */
   public library: LibraryResponse | null = null;
+  private readonly _library = inject(LibraryService);
+  private destroyRef = inject(DestroyRef);
 
   /**
    *  Get the library

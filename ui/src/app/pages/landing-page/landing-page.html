@@ -1,16 +1,17 @@
 <div class="card w-full">
   <p-table
     #libraryTable
-    dataKey="title"
-    [value]="library?.books ?? []"
     (onLazyLoad)="getLibrary()"
-    [lazy]="true"
     [globalFilterFields]="['title', 'author', 'shelfLocation']"
-    class="w-full">
+    [lazy]="true"
+    [value]="library?.books ?? []"
+    class="w-full"
+    dataKey="title">
     <ng-template #caption>
-        <div class="flex w-full">
-            <input pInputText type="text" (input)="libraryTable.filterGlobal($event.target?.value, 'contains')" placeholder="Search keyword" class="ml-auto sm:w-100 w-full"/>
-        </div>
+      <div class="flex w-full">
+        <input (input)="libraryTable.filterGlobal($event.target.value, 'contains')" class="ml-auto sm:w-100 w-full" pInputText
+               placeholder="Search keyword" type="text"/>
+      </div>
     </ng-template>
     <ng-template #header>
       <tr>
@@ -29,8 +30,8 @@
           {{ book.shelfLocation ?? '-' }}
         </td>
         <td>
-          <p-tag [severity]="book.isReadByJay ? 'success' : 'secondary'" value="Jay" class="me-2"/>
-          <p-tag [severity]="book.isReadByGemma ? 'success' : 'secondary'" value="Gemma" class="mt-2 md:mt-0"/>
+          <p-tag [severity]="book.isReadByJay ? 'success' : 'secondary'" class="me-2" value="Jay"/>
+          <p-tag [severity]="book.isReadByGemma ? 'success' : 'secondary'" class="mt-2 md:mt-0" value="Gemma"/>
         </td>
       </tr>
     </ng-template>
