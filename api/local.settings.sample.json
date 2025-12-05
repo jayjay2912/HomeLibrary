@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "ForceBooksFilePath": "books.json",
+    "DATABASE_CONNECTION_STRING": "<connection string here>",
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated"
+  }
+}
