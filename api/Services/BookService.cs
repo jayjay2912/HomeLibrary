@@ -36,8 +36,9 @@ public class BookService(IServiceProvider services, ILogger<BookService> logger)
     private ICollection<Book> LoadBooks()
     {
         // try and load from the book JSON data source (it will be readonly until we have a database backing the service).
+        var path = Environment.GetEnvironmentVariable("HOME") + @"\site\wwwroot\books.json";
         var books = JsonSerializer
-            .Deserialize<ICollection<Book>>(File.ReadAllText("books.json")) ?? new List<Book>();
+            .Deserialize<ICollection<Book>>(File.ReadAllText(path)) ?? new List<Book>();
 
         // save them to the cache for the next call to save on disk/azure storage operations.
         _cache.Set("books", books);
