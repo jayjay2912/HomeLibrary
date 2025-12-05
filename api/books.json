@@ -1,5 +1,3257 @@
 [
   {
-    "Title": "Hyperion"
+    "Title": "Mostly Harmless",
+    "Author": "Adams, Douglas",
+    "ShelfLocation": "2.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Hitchhiker's Guide To The Galaxy",
+    "Author": "Adams, Douglas",
+    "ShelfLocation": "2.3",
+    "IsReadByJay": true,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Restaurant At The End Of The Universe",
+    "Author": "Adams, Douglas",
+    "ShelfLocation": "2.3",
+    "IsReadByJay": true,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Life, The Universe And Everything",
+    "Author": "Adams, Douglas",
+    "ShelfLocation": "2.3",
+    "IsReadByJay": true,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "So Long, And Thanks For All The Fish",
+    "Author": "Adams, Douglas",
+    "ShelfLocation": "2.3",
+    "IsReadByJay": true,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Starship Titanic",
+    "Author": "Adams, Douglas",
+    "ShelfLocation": "4.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Last Chance To See",
+    "Author": "Adams, Douglas",
+    "ShelfLocation": "2.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Meaning Of Liff",
+    "Author": "Adams, Douglas",
+    "ShelfLocation": "2.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Deaper Meaning Of Liff",
+    "Author": "Adams, Douglas",
+    "ShelfLocation": "2.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Dirk Gently Omnibus",
+    "Author": "Adams, Douglas",
+    "ShelfLocation": "1.3",
+    "IsReadByJay": true,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Salmon Of Doubt",
+    "Author": "Adams, Douglas",
+    "ShelfLocation": "1.2",
+    "IsReadByJay": true,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Leave The World Behind",
+    "Author": "Alam, Rumaan",
+    "ShelfLocation": "2.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Power",
+    "Author": "Alderman, Naomi",
+    "ShelfLocation": "2.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Hans Christian Anderson Fairy Tales",
+    "Author": "Anderson, Hans Christian",
+    "ShelfLocation": "1.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Slender Man",
+    "Author": "Anon",
+    "ShelfLocation": "2.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Our Wives Under The Sea",
+    "Author": "Armfield, Julia",
+    "ShelfLocation": "1.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "I, Robot",
+    "Author": "Asimov, Isaac",
+    "ShelfLocation": "1.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Foundation (Trilogy)",
+    "Author": "Asimov, Isaac",
+    "ShelfLocation": "2.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Robots And Empire",
+    "Author": "Asimov, Isaac",
+    "ShelfLocation": "2.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Gods Themselves",
+    "Author": "Asimov, Isaac",
+    "ShelfLocation": "1.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Started Early, Took My Dog",
+    "Author": "Atkinson, Kate",
+    "ShelfLocation": "2.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Bunny",
+    "Author": "Awad, Mona",
+    "ShelfLocation": "2.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Bat Eater",
+    "Author": "Baker, Kylie Lee",
+    "ShelfLocation": "1.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Boy Who Kicked Pigs",
+    "Author": "Baker, Tom",
+    "ShelfLocation": "2.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Collectors",
+    "Author": "Baldacci, David",
+    "ShelfLocation": null,
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Providence",
+    "Author": "Barry, Max",
+    "ShelfLocation": "2.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Writing Retreat",
+    "Author": "Bartz, Julia",
+    "ShelfLocation": "1.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Raft",
+    "Author": "Baxter, Stephen",
+    "ShelfLocation": "1.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Tender Is The Flesh",
+    "Author": "Bazterrica, Agustina",
+    "ShelfLocation": "2.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Unworthy",
+    "Author": "Bazterrica, Agustina",
+    "ShelfLocation": "1.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Ardennes 1944",
+    "Author": "Beevor, Antony",
+    "ShelfLocation": "2.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Jack The Ripper: The Definitive History",
+    "Author": "Begg, Paul",
+    "ShelfLocation": null,
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Christmas Jigsaw Murders",
+    "Author": "Benedict, Alexandra",
+    "ShelfLocation": "1.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "We Had To Remove This Post",
+    "Author": "Bervoets, Hanna",
+    "ShelfLocation": "2.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Stars My Destination",
+    "Author": "Bester, Alfred",
+    "ShelfLocation": "1.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Alone With You In The Ether",
+    "Author": "Blake, Olivie",
+    "ShelfLocation": "2.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Something Wicked This Way Comes",
+    "Author": "Bradbury, Ray",
+    "ShelfLocation": "2.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Strong Female Character",
+    "Author": "Brady, Fern",
+    "ShelfLocation": "1.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "World War Z",
+    "Author": "Brooks, Max",
+    "ShelfLocation": "2.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Body: A Guide For Occupants",
+    "Author": "Bryson, Bill",
+    "ShelfLocation": "2.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Glory",
+    "Author": "Bulawayo, NoViolet",
+    "ShelfLocation": "2.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Kindred",
+    "Author": "Butler, Octavia E.",
+    "ShelfLocation": "2.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Diary Of A Bookseller",
+    "Author": "Bythell, Shaun",
+    "ShelfLocation": null,
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Synners",
+    "Author": "Cadigan, Pat",
+    "ShelfLocation": "1.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Make Love! The Bruce Campbell Way",
+    "Author": "Campbell, Bruce",
+    "ShelfLocation": null,
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Soulless",
+    "Author": "Carriger, Gail",
+    "ShelfLocation": "2.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Heat Wave",
+    "Author": "Castle, Richard",
+    "ShelfLocation": "2.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Stories Of Your Life And Others",
+    "Author": "Chiang, Ted",
+    "ShelfLocation": null,
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Rendezvous With Rama",
+    "Author": "Clarke, Arthur C.",
+    "ShelfLocation": "1.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The City And The Stars",
+    "Author": "Clarke, Arthur C.",
+    "ShelfLocation": "1.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Sands Of Mars",
+    "Author": "Clarke, Arthur C.",
+    "ShelfLocation": "1.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Seeds Of The Earth",
+    "Author": "Cobley, Michael",
+    "ShelfLocation": "4.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Family",
+    "Author": "Cole, Martina",
+    "ShelfLocation": null,
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Hunger Games",
+    "Author": "Collins, Suzanne",
+    "ShelfLocation": "3.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Catching Fire",
+    "Author": "Collins, Suzanne",
+    "ShelfLocation": "3.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Mockingjay",
+    "Author": "Collins, Suzanne",
+    "ShelfLocation": "3.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Ballad Of Songbirds And Snakes",
+    "Author": "Collins, Suzanne",
+    "ShelfLocation": "3.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Sunrise On The Reaping",
+    "Author": "Collins, Suzanne",
+    "ShelfLocation": "1.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Leviathan Wakes (The Expanse #1)",
+    "Author": "Corey, James S.A.",
+    "ShelfLocation": null,
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Galaxy In Flames (The Horus Heresy)",
+    "Author": "Counter, Ben",
+    "ShelfLocation": "4.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Ferryman",
+    "Author": "Cronin, Justin",
+    "ShelfLocation": "1.2",
+    "IsReadByJay": true,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Passage",
+    "Author": "Cronin, Justin",
+    "ShelfLocation": "2.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Frontier",
+    "Author": "Curtis, Grace",
+    "ShelfLocation": "1.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Jack The Ripper & The London Press",
+    "Author": "Curtis, L. Perry",
+    "ShelfLocation": null,
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "House Of Leaves",
+    "Author": "Danielewski, Mark Z.",
+    "ShelfLocation": "2.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Dhalgren",
+    "Author": "Delany, Samuel L.",
+    "ShelfLocation": "1.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Death And Other Occupational Hazards",
+    "Author": "Dapunt, Veronika",
+    "ShelfLocation": "1.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "They",
+    "Author": "Dick, Kay",
+    "ShelfLocation": "2.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Man In The High Castle",
+    "Author": "Dick, Philip K.",
+    "ShelfLocation": "1.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "A Maze Of Death",
+    "Author": "Dick, Philip K.",
+    "ShelfLocation": "1.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Do Androids Dream Of Electric Sheep",
+    "Author": "Dick, Philip K.",
+    "ShelfLocation": "1.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Penultimate Truth",
+    "Author": "Dick, Philip K.",
+    "ShelfLocation": "1.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Dungeon Crawler Carl",
+    "Author": "Dinniman, Matt",
+    "ShelfLocation": "1.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "You Against Me",
+    "Author": "Downham, Jenny",
+    "ShelfLocation": "2.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Choice",
+    "Author": "Eger, Edith",
+    "ShelfLocation": "2.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Death Of Vivek Oji",
+    "Author": "Emezi, Akwaeke",
+    "ShelfLocation": "2.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Measure",
+    "Author": "Erlick, Nikki",
+    "ShelfLocation": "2.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Poppy Fields",
+    "Author": "Erlick, Nikki",
+    "ShelfLocation": "1.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Big Over Easy (Nursery Crimes #1)",
+    "Author": "Fforde, Jasper",
+    "ShelfLocation": "1.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Eyre Affair (Thursday Next #1)",
+    "Author": "Fforde, Jasper",
+    "ShelfLocation": "2.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Lost In A Good Book (Thursday Next #2)",
+    "Author": "Fforde, Jasper",
+    "ShelfLocation": "2.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Well Of Lost Plots (Thursday Next #3)",
+    "Author": "Fforde, Jasper",
+    "ShelfLocation": "2.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Something Rotten (Thursday Next #4)",
+    "Author": "Fforde, Jasper",
+    "ShelfLocation": "2.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "First Among Sequels (Thursday Next #5)",
+    "Author": "Fforde, Jasper",
+    "ShelfLocation": "1.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "One Of Our Thursdays Is Missing (Thursday Next #6)",
+    "Author": "Fforde, Jasper",
+    "ShelfLocation": "2.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Woman Who Died A Lot (Thursday Next #7)",
+    "Author": "Fforde, Jasper",
+    "ShelfLocation": "2.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Shades Of Grey",
+    "Author": "Fforde, Jasper",
+    "ShelfLocation": "1.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Fourth Bear (Nursery Crimes #2)",
+    "Author": "Fforde, Jasper",
+    "ShelfLocation": "2.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Last Dragonslayer",
+    "Author": "Fforde, Jasper",
+    "ShelfLocation": "2.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Sharp Objects",
+    "Author": "Flynn, Gillian",
+    "ShelfLocation": "1.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Gone Girl",
+    "Author": "Flynn, Gillian",
+    "ShelfLocation": "1.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Girl Who Could Move Shit With Her Mind",
+    "Author": "Ford, Jackson",
+    "ShelfLocation": "1.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Etymologicon",
+    "Author": "Forsyth, Mark",
+    "ShelfLocation": "1.3",
+    "IsReadByJay": true,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Silks",
+    "Author": "Francis, Dick & Felix",
+    "ShelfLocation": "1.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Mythos",
+    "Author": "Fry, Stephen",
+    "ShelfLocation": null,
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "American Gods",
+    "Author": "Gaiman, Neil",
+    "ShelfLocation": "1.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Anansi Boys",
+    "Author": "Gaiman, Neil",
+    "ShelfLocation": "1.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Fragile Things",
+    "Author": "Gaiman, Neil",
+    "ShelfLocation": "1.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Neverwhere",
+    "Author": "Gaiman, Neil",
+    "ShelfLocation": "1.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Smoke And Mirrors",
+    "Author": "Gaiman, Neil",
+    "ShelfLocation": "1.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Stardust",
+    "Author": "Gaiman, Neil",
+    "ShelfLocation": "1.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "A Multitude Of Monsters",
+    "Author": "Gardner, Craig Shaw",
+    "ShelfLocation": "4.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Lessons In Chemistry",
+    "Author": "Garmus, Bonnie",
+    "ShelfLocation": "1.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Devil In Amber",
+    "Author": "Gatiss, Mark",
+    "ShelfLocation": "1.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Vesuvius Club",
+    "Author": "Gatiss, Mark",
+    "ShelfLocation": "1.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Flanimals",
+    "Author": "Gervais, Ricky",
+    "ShelfLocation": "4.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Women Could Fly",
+    "Author": "Giddings, Megan",
+    "ShelfLocation": "1.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Metro 2033",
+    "Author": "Glukhovsky, Dmitry",
+    "ShelfLocation": "1.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The List Of Suspicious Things",
+    "Author": "Godfrey, Jennie",
+    "ShelfLocation": "1.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "All Hallows",
+    "Author": "Golden, Christopher",
+    "ShelfLocation": "1.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Emotional Intelligence",
+    "Author": "Goleman, Daniel",
+    "ShelfLocation": "1.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Husbands",
+    "Author": "Gramazio, Holly",
+    "ShelfLocation": "1.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Come Closer",
+    "Author": "Gran, Sara",
+    "ShelfLocation": "1.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Annie Bot",
+    "Author": "Greer, Sierra",
+    "ShelfLocation": "1.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Love Of My Afterlife",
+    "Author": "Greenwood, Kirsty",
+    "ShelfLocation": "1.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Ammonite",
+    "Author": "Griffith, Nicola",
+    "ShelfLocation": "1.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Grimm's Complete Fairytales",
+    "Author": "Grimm, Brothers",
+    "ShelfLocation": "1.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Dinotopia",
+    "Author": "Gurney, James",
+    "ShelfLocation": "4.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Midnight Library",
+    "Author": "Haig, Matt",
+    "ShelfLocation": "1.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Peace And War",
+    "Author": "Haldeman, Joe",
+    "ShelfLocation": "1.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "One Of The Good Guys",
+    "Author": "Hall, Araminta",
+    "ShelfLocation": "1.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Examiner",
+    "Author": "Hallett, Janice",
+    "ShelfLocation": "1.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Otherlands",
+    "Author": "Halliday, Thomas",
+    "ShelfLocation": "1.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Judas Unchained",
+    "Author": "Hamilton, Peter F.",
+    "ShelfLocation": "2.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Pandora's Star",
+    "Author": "Hamilton, Peter F.",
+    "ShelfLocation": "1.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Fallen Dragon",
+    "Author": "Hamilton, Peter F.",
+    "ShelfLocation": "1.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Abyss Beyond Dreams",
+    "Author": "Hamilton, Peter F.",
+    "ShelfLocation": "1.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Neutronium Alchemist",
+    "Author": "Hamilton, Peter F.",
+    "ShelfLocation": "1.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Manhattan In Reverse",
+    "Author": "Hamilton, Peter F.",
+    "ShelfLocation": "1.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "I Who Have Never Known Men",
+    "Author": "Harpman, Jacqueline",
+    "ShelfLocation": "4.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Other Black Girl",
+    "Author": "Harris, Zakiya Dalila",
+    "ShelfLocation": "2.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "A Brief History Of Time",
+    "Author": "Hawking, Stephen",
+    "ShelfLocation": "2.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Poppet",
+    "Author": "Hayder, Mo",
+    "ShelfLocation": "2.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "How To Sell A Haunted House",
+    "Author": "Hendrix, Grady",
+    "ShelfLocation": "1.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "My Best Friend's Exorcism",
+    "Author": "Hendrix, Grady",
+    "ShelfLocation": "2.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Witchcraft For Wayward Girls",
+    "Author": "Hendrix, Grady",
+    "ShelfLocation": "1.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Alice",
+    "Author": "Henry, Christina",
+    "ShelfLocation": "2.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The House That Horror Built",
+    "Author": "Henry, Christina",
+    "ShelfLocation": "2.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Great Dune Trilogy",
+    "Author": "Herbert, Frank",
+    "ShelfLocation": "1.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Woman In Black",
+    "Author": "Hill, Susan",
+    "ShelfLocation": "2.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Motherthing",
+    "Author": "Hogarth, Ainslie",
+    "ShelfLocation": "2.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Termush",
+    "Author": "Holm, Sven",
+    "ShelfLocation": "2.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Natural Beauty",
+    "Author": "Huang, Ling Ling",
+    "ShelfLocation": "2.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Klara And The Sun",
+    "Author": "Ishiguro, Kazuo",
+    "ShelfLocation": "2.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Stitches",
+    "Author": "Ito, Junji",
+    "ShelfLocation": "4.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Haunting Of Hill House",
+    "Author": "Jackson, Shirley",
+    "ShelfLocation": "2.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Lottery (And Other Stories)",
+    "Author": "Jackson, Shirley",
+    "ShelfLocation": "2.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Just For The Summer",
+    "Author": "Jimenez, Abby",
+    "ShelfLocation": "2.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "My Heart Is A Chainsaw",
+    "Author": "Jones, Stephen Graham",
+    "ShelfLocation": "2.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "I Was A Teenage Slasher",
+    "Author": "Jones, Stephen Graham",
+    "ShelfLocation": "2.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Killer On The Road",
+    "Author": "Jones, Stephen Graham",
+    "ShelfLocation": "1.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Babysitter Lives",
+    "Author": "Jones, Stephen Graham",
+    "ShelfLocation": "2.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Eye Of The World (The Wheel Of Time #1)",
+    "Author": "Jordan, Robert",
+    "ShelfLocation": null,
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Dead Eleven",
+    "Author": "Juliano, Jimmy",
+    "ShelfLocation": "1.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Vegetarian",
+    "Author": "Kang, Han",
+    "ShelfLocation": "2.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Several People Are Typing",
+    "Author": "Kasulke, Calvin",
+    "ShelfLocation": "2.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Hunger",
+    "Author": "Katsu, Alma",
+    "ShelfLocation": "2.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "All My Friends Are Superheroes",
+    "Author": "Kaufman, Andrew",
+    "ShelfLocation": "2.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Before The Coffee Gets Cold",
+    "Author": "Kawaguchi, Toshimazu",
+    "ShelfLocation": "2.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Before The Coffee Gets Cold: Tales From The Cafe",
+    "Author": "Kawaguchi, Toshimazu",
+    "ShelfLocation": "2.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Before Your Memory Fades",
+    "Author": "Kawaguchi, Toshimazu",
+    "ShelfLocation": "2.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "If Cats Disappeared From The World",
+    "Author": "Kawamura, Genki",
+    "ShelfLocation": "2.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Flowers For Algernon",
+    "Author": "Keyes, Daniel",
+    "ShelfLocation": "1.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Eyes Are The Best Part",
+    "Author": "Kim, Monika",
+    "ShelfLocation": "1.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Long Walk",
+    "Author": "King, Stephen",
+    "ShelfLocation": "3.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Pet Sematary",
+    "Author": "King, Stephen",
+    "ShelfLocation": "3.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Girl Who Loved Tom Gordon",
+    "Author": "King, Stephen",
+    "ShelfLocation": "3.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Shining",
+    "Author": "King, Stephen",
+    "ShelfLocation": "3.1",
+    "IsReadByJay": true,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Salem's Lot",
+    "Author": "King, Stephen",
+    "ShelfLocation": "3.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Misery",
+    "Author": "King, Stephen",
+    "ShelfLocation": "3.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Green Mile",
+    "Author": "King, Stephen",
+    "ShelfLocation": "3.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Gunslinger (Dark Tower #1)",
+    "Author": "King, Stephen",
+    "ShelfLocation": "3.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Drawing Of The Three (Dark Tower #2)",
+    "Author": "King, Stephen",
+    "ShelfLocation": "3.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Wastelands (Dark Tower #3)",
+    "Author": "King, Stephen",
+    "ShelfLocation": "3.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Wizard And Glass (Dark Tower #4)",
+    "Author": "King, Stephen",
+    "ShelfLocation": "3.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Wolves Of The Calla (Dark Tower #5)",
+    "Author": "King, Stephen",
+    "ShelfLocation": "3.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Song Of Susannah (Dark Tower #6)",
+    "Author": "King, Stephen",
+    "ShelfLocation": "3.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Dark Tower (Dark Tower #7)",
+    "Author": "King, Stephen",
+    "ShelfLocation": "3.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Wind Through The Keyhole (Dark Tower Novel)",
+    "Author": "King, Stephen",
+    "ShelfLocation": "3.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Outsider",
+    "Author": "King, Stephen",
+    "ShelfLocation": null,
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Stand",
+    "Author": "King, Stephen",
+    "ShelfLocation": null,
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Mr Mercedes",
+    "Author": "King, Stephen",
+    "ShelfLocation": null,
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "We Used To Live Here",
+    "Author": "Kliewer, Marcus",
+    "ShelfLocation": "1.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The House In The Cerulean Sea",
+    "Author": "Klune, T.J.",
+    "ShelfLocation": "2.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Bright Young Women",
+    "Author": "Knoll, Jessica",
+    "ShelfLocation": "2.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Woman, Eating",
+    "Author": "Kohda, Claire",
+    "ShelfLocation": "2.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Whalefall",
+    "Author": "Kraus, Daniel",
+    "ShelfLocation": "2.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Notes On An Execution",
+    "Author": "Kukafka, Danya",
+    "ShelfLocation": "2.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Trees Grew Because I Bled There",
+    "Author": "LaRocca, Eric",
+    "ShelfLocation": "2.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Things Have Gotten Worse Since We Last Spoke",
+    "Author": "LaRocca, Eric",
+    "ShelfLocation": "2.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "You've Lost A Lot Of Blood",
+    "Author": "LaRocca, Eric",
+    "ShelfLocation": "2.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "So Happy For You",
+    "Author": "Laskey, Celia",
+    "ShelfLocation": "2.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Bolos Book V: Old Guard",
+    "Author": "Laumer, Keith",
+    "ShelfLocation": "4.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Left Hand Of Darkness",
+    "Author": "Le Guin, Ursula K.",
+    "ShelfLocation": "1.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Word For World Is Forest",
+    "Author": "Le Guin, Ursula K.",
+    "ShelfLocation": "1.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "To Kill A Mockingbird",
+    "Author": "Lee, Harper",
+    "ShelfLocation": "1.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Perilous Times",
+    "Author": "Lee, Thomas D.",
+    "ShelfLocation": "1.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Maeve Fly",
+    "Author": "Leede, CJ",
+    "ShelfLocation": "2.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Solaris",
+    "Author": "Lem, Stanislaw",
+    "ShelfLocation": "2.5",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Small Island",
+    "Author": "Levy, Andrea",
+    "ShelfLocation": "3.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "A Magic Steeped In Poison",
+    "Author": "Lin, Judy I.",
+    "ShelfLocation": "3.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "A Venom Dark And Sweet",
+    "Author": "Lin, Judy I.",
+    "ShelfLocation": "3.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Complete Fiction Of H.P. Lovecraft",
+    "Author": "Lovecraft, H.P.",
+    "ShelfLocation": "1.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Call Of Cthulhu (And Other Stories)",
+    "Author": "Lovecraft, H.P.",
+    "ShelfLocation": "3.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Three-Body Problem (Remembrance of Earth's Past #1)",
+    "Author": "Lui, Cixin",
+    "ShelfLocation": "3.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Dark Forest (Remembrance of Earth's Past #2)",
+    "Author": "Lui, Cixin",
+    "ShelfLocation": "3.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Death's End (Remembrance of Earth's Past #3)",
+    "Author": "Lui, Cixin",
+    "ShelfLocation": "3.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Incidents Around The House",
+    "Author": "Malerman, Josh",
+    "ShelfLocation": "3.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Garth Marenghi's Terrortome",
+    "Author": "Marenghi, Garth",
+    "ShelfLocation": null,
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "A Game Of Thrones (A Song Of Ice And Fire #1)",
+    "Author": "Martin, George R.R.",
+    "ShelfLocation": "2.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "A Clash Of Kings (A Song Of Ice And Fire #2)",
+    "Author": "Martin, George R.R.",
+    "ShelfLocation": "2.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "A Storm Of Swords: Steel And Snow (A Song Of Ice And Fire #3)",
+    "Author": "Martin, George R.R.",
+    "ShelfLocation": "2.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "A Storm Of Swords: Blood And Gold (A Song Of Ice And Fire #4)",
+    "Author": "Martin, George R.R.",
+    "ShelfLocation": "2.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "A Feast For Crows (A Song Of Ice And Fire #5)",
+    "Author": "Martin, George R.R.",
+    "ShelfLocation": "2.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "A Dance With Dragons: Dreams And Dust (A Song Of Ice And Fire #6)",
+    "Author": "Martin, George R.R.",
+    "ShelfLocation": "2.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "A Dance With Dragons: After The Feast (A Song Of Ice And Fire #7)",
+    "Author": "Martin, George R.R.",
+    "ShelfLocation": "2.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Wicked Girls",
+    "Author": "Marwood, Alex",
+    "ShelfLocation": "3.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Shrinking Man",
+    "Author": "Matheson, Richard",
+    "ShelfLocation": null,
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "I Am Legend",
+    "Author": "Matheson, Richard",
+    "ShelfLocation": "1.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Reprieve",
+    "Author": "Mattson, James Han",
+    "ShelfLocation": "3.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "I'm Glad My Mom Died",
+    "Author": "McCurdy, Jennette",
+    "ShelfLocation": "1.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Machines Like Me",
+    "Author": "McEwan, Ian",
+    "ShelfLocation": "3.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Never Lie",
+    "Author": "McFadden, Freida",
+    "ShelfLocation": "3.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Housemaid",
+    "Author": "McFadden, Freida",
+    "ShelfLocation": "3.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Our Hideous Progeny",
+    "Author": "McGill, C. E.",
+    "ShelfLocation": "3.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Every Heart A Doorway",
+    "Author": "McGuire, Seanan",
+    "ShelfLocation": "1.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Fulgrim (The Horus Heresy)",
+    "Author": "McNeill, Graham",
+    "ShelfLocation": "4.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Sisters Of The Lost Nation",
+    "Author": "Medina, Nick",
+    "ShelfLocation": "3.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Beautiful Star",
+    "Author": "Mishima, Yukio",
+    "ShelfLocation": "3.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "V For Vendetta",
+    "Author": "Moore, Alan",
+    "ShelfLocation": "4.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "From Hell",
+    "Author": "Moore, Alan",
+    "ShelfLocation": "4.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The God Of The Woods",
+    "Author": "Moore, Liz",
+    "ShelfLocation": "1.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Manx Fairy Tales",
+    "Author": "Morrison, Sophie",
+    "ShelfLocation": "1.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Audition",
+    "Author": "Murakami, Rya",
+    "ShelfLocation": "3.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "How High We Go In The Dark",
+    "Author": "Nagamatsu, Sequoia",
+    "ShelfLocation": "1.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Our Missing Hearts",
+    "Author": "Ng, Celeste",
+    "ShelfLocation": "1.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Ringworld Throne",
+    "Author": "Niven, Larry",
+    "ShelfLocation": "4.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Ringworld's Children",
+    "Author": "Niven, Larry",
+    "ShelfLocation": "4.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Ringworld Engineers",
+    "Author": "Niven, Larry",
+    "ShelfLocation": "4.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Sleeping Giants",
+    "Author": "Nuevel, Sylvain",
+    "ShelfLocation": "3.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Memory Police",
+    "Author": "Ogawa, Yoko",
+    "ShelfLocation": "3.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Do You Dream Of Terra-Two?",
+    "Author": "Oh, Temi",
+    "ShelfLocation": "3.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "1984",
+    "Author": "Orwell, George",
+    "ShelfLocation": "3.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Blood On The Tracks: Volume 1",
+    "Author": "Oshimi, Shuzo",
+    "ShelfLocation": "4.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Haunted",
+    "Author": "Palahniuk, Chuck",
+    "ShelfLocation": "3.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Erebus",
+    "Author": "Palin, Michael",
+    "ShelfLocation": "3.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Stag Dance",
+    "Author": "Peters, Torrey",
+    "ShelfLocation": "1.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "By Any Other Name",
+    "Author": "Picoult, Jodi",
+    "ShelfLocation": "3.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Change Of Heart",
+    "Author": "Picoult, Jodi",
+    "ShelfLocation": "3.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Book Of Two Ways",
+    "Author": "Picoult, Jodi",
+    "ShelfLocation": "2.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Wish You Were Here",
+    "Author": "Picoult, Jodi",
+    "ShelfLocation": "2.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "House Rules",
+    "Author": "Picoult, Jodi",
+    "ShelfLocation": "1.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Leaving Time",
+    "Author": "Picoult, Jodi",
+    "ShelfLocation": "1.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Lone Wolf",
+    "Author": "Picoult, Jodi",
+    "ShelfLocation": "1.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "My Sister's Keeper",
+    "Author": "Picoult, Jodi",
+    "ShelfLocation": "2.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Picture Perfect",
+    "Author": "Picoult, Jodi",
+    "ShelfLocation": "1.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Small Great Things",
+    "Author": "Picoult, Jodi",
+    "ShelfLocation": "2.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "A Spark Of Light",
+    "Author": "Picoult, Jodi",
+    "ShelfLocation": "1.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Sing You Home",
+    "Author": "Picoult, Jodi",
+    "ShelfLocation": "2.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Storyteller",
+    "Author": "Picoult, Jodi",
+    "ShelfLocation": "2.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Handle With Care",
+    "Author": "Picoult, Jodi",
+    "ShelfLocation": "3.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Harvesting The Heart",
+    "Author": "Picoult, Jodi",
+    "ShelfLocation": "3.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Keeping Faith",
+    "Author": "Picoult, Jodi",
+    "ShelfLocation": "3.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Mercy",
+    "Author": "Picoult, Jodi",
+    "ShelfLocation": "3.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Nineteen Minutes",
+    "Author": "Picoult, Jodi",
+    "ShelfLocation": "3.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Pact",
+    "Author": "Picoult, Jodi",
+    "ShelfLocation": "3.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Perfect Match",
+    "Author": "Picoult, Jodi",
+    "ShelfLocation": "3.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Plain Truth",
+    "Author": "Picoult, Jodi",
+    "ShelfLocation": "3.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Salem Falls",
+    "Author": "Picoult, Jodi",
+    "ShelfLocation": "3.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Second Chance",
+    "Author": "Picoult, Jodi",
+    "ShelfLocation": "3.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Songs Of The Humpback Whale",
+    "Author": "Picoult, Jodi",
+    "ShelfLocation": "3.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Tenth Circle",
+    "Author": "Picoult, Jodi",
+    "ShelfLocation": "3.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Vanishing Acts",
+    "Author": "Picoult, Jodi",
+    "ShelfLocation": "3.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Mad Honey",
+    "Author": "Picoult, Jodi / Boylan, Jennifer Finney",
+    "ShelfLocation": "2.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "You Are Fatally Invited",
+    "Author": "Pliego, Ande",
+    "ShelfLocation": "2.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Gateway",
+    "Author": "Pohl, Frederik",
+    "ShelfLocation": "1.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Seven Year Slip",
+    "Author": "Poston, Ashley",
+    "ShelfLocation": null,
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Stars And Bones",
+    "Author": "Powell, Gareth L.",
+    "ShelfLocation": "3.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Rincewind Trilogy",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": null,
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Colour Of Magic (VG Edition)",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "1.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Hogfather (VG Edition)",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "1.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Interesting Times (VG Edition)",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "1.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Jingo (VG Edition)",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "1.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Reaper Man (VG Edition)",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "1.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Small Gods (VG Edition)",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "1.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Soul Music (VG Edition)",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "1.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Carpe Jugulum",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "4.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Carpet People",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "4.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Dark Side Of The Sun",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "4.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Diggers",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "4.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Equal Rites",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "4.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Feet Of Clay",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "4.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Fifth Elephant",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "4.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Guards! Guards!",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "4.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "A Hat Full Of Sky",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "4.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Hogfather",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "4.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The lllustrated Eric",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "4.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Interesting Times",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "4.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Jingo",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "4.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Johnny And The Bomb",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "4.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Last Continent",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "4.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Light Fantastic",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "4.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Lords And Ladies",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "4.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Maskerade",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "4.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Monstrous Regiment",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "4.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Mort",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "4.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Moving Pictures",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "4.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Only You Can Save Mankind",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "4.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Pyramids",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "4.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Reaper Man",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "4.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Science Of Discworld",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "4.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Science Of Discworld III: Darwin's Watch",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "4.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Small Gods",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "4.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Soul Music",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "4.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Strata",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "4.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Thief Of Time",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "4.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Thud!",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "4.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Truckers",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "4.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Truth",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "4.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Unadulterated Cat",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "4.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Wee Free Men",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "4.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Wings",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "4.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Wintersmith",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "4.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Witches Abroad",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "4.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Wyrd Sisters",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "4.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Science Of Discworld II: The Globe",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "2.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Dodger",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "2.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Going Postal",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "2.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "I Shall Wear Midnight",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "2.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Making Money",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "2.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Nation",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "2.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Night Watch",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "2.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Raising Steam",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "2.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Snuff",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "2.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Unseen Academicals",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "1.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Last Hero",
+    "Author": "Pratchett, Terry",
+    "ShelfLocation": "4.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Long Earth (The Long Earth #1)",
+    "Author": "Pratchett, Terry / Baxter, Stephen",
+    "ShelfLocation": "2.2",
+    "IsReadByJay": true,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Long War (The Long Earth #2)",
+    "Author": "Pratchett, Terry / Baxter, Stephen",
+    "ShelfLocation": "2.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Long Mars (The Long Earth #3)",
+    "Author": "Pratchett, Terry / Baxter, Stephen",
+    "ShelfLocation": "2.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Long Utopia (The Long Earth #4)",
+    "Author": "Pratchett, Terry / Baxter, Stephen",
+    "ShelfLocation": "2.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Long Cosmos (The Long Earth #5)",
+    "Author": "Pratchett, Terry / Baxter, Stephen",
+    "ShelfLocation": "4.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Good Omens",
+    "Author": "Pratchett, Terry / Gaiman, Neil",
+    "ShelfLocation": "4.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Antipope",
+    "Author": "Rankin, Robert",
+    "ShelfLocation": "3.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Apocalypso",
+    "Author": "Rankin, Robert",
+    "ShelfLocation": "3.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Armageddon The Musical",
+    "Author": "Rankin, Robert",
+    "ShelfLocation": "3.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Book Of Ultimate Truths",
+    "Author": "Rankin, Robert",
+    "ShelfLocation": "3.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Brentford Chainstore Massacre",
+    "Author": "Rankin, Robert",
+    "ShelfLocation": "3.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Brentford Triangle",
+    "Author": "Rankin, Robert",
+    "ShelfLocation": "3.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Brightonomicon",
+    "Author": "Rankin, Robert",
+    "ShelfLocation": "3.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Dance Of The Voodoo Handbag",
+    "Author": "Rankin, Robert",
+    "ShelfLocation": "3.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "They Came And Ate Us (Armageddon II: The B-Movie)",
+    "Author": "Rankin, Robert",
+    "ShelfLocation": "3.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Toyminator",
+    "Author": "Rankin, Robert",
+    "ShelfLocation": "3.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Sprout Mask Replica",
+    "Author": "Rankin, Robert",
+    "ShelfLocation": "3.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Sprouts Of Wrath",
+    "Author": "Rankin, Robert",
+    "ShelfLocation": "3.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Suburban Book Of The Dead (Armageddon III: The Remake)",
+    "Author": "Rankin, Robert",
+    "ShelfLocation": "3.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Snuff Fiction",
+    "Author": "Rankin, Robert",
+    "ShelfLocation": "3.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Waiting For Godalming",
+    "Author": "Rankin, Robert",
+    "ShelfLocation": "3.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Web Site Story",
+    "Author": "Rankin, Robert",
+    "ShelfLocation": "3.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Nostradamus Ate My Hamster",
+    "Author": "Rankin, Robert",
+    "ShelfLocation": "3.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "A Dog Called Demolition",
+    "Author": "Rankin, Robert",
+    "ShelfLocation": "3.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "East Of Ealing",
+    "Author": "Rankin, Robert",
+    "ShelfLocation": "3.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Garden Of Unearthly Delights",
+    "Author": "Rankin, Robert",
+    "ShelfLocation": "3.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Greatest Show Off Earth",
+    "Author": "Rankin, Robert",
+    "ShelfLocation": "3.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Knees Up Mother Earth",
+    "Author": "Rankin, Robert",
+    "ShelfLocation": "1.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Raiders Of The Lost Car Park",
+    "Author": "Rankin, Robert",
+    "ShelfLocation": "3.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Da-Da-De-Da-Da Code",
+    "Author": "Rankin, Robert",
+    "ShelfLocation": "1.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Hollow Chocolate Bunnies Of The Apocolypse",
+    "Author": "Rankin, Robert",
+    "ShelfLocation": "1.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Sex And Drugs And Sausage Rolls",
+    "Author": "Rankin, Robert",
+    "ShelfLocation": "3.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Men Who Stared At Goats",
+    "Author": "Ronson, Jon",
+    "ShelfLocation": "3.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Fantastic Beasts & Where To Find Them (Hogwarts Library #1)",
+    "Author": "Rowling, J. K.",
+    "ShelfLocation": null,
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Tales Of Beedle The Bard (Hogwarts Library #2)",
+    "Author": "Rowling, J. K.",
+    "ShelfLocation": null,
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Quidditch Through The Ages (Hogwarts Library #3)",
+    "Author": "Rowling, J. K.",
+    "ShelfLocation": null,
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Harry Potter And The Philosopher's Stone (Harry Potter #1)",
+    "Author": "Rowling, J. K.",
+    "ShelfLocation": null,
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Harry Potter And The Chamber Of Secrets (Harry Potter #2)",
+    "Author": "Rowling, J. K.",
+    "ShelfLocation": null,
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Harry Potter And The Prisoner Of Azkaban (Harry Potter #3)",
+    "Author": "Rowling, J. K.",
+    "ShelfLocation": null,
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Harry Potter And The Goblet Of Fire (Harry Potter #4)",
+    "Author": "Rowling, J. K.",
+    "ShelfLocation": null,
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Harry Potter And The Order Of The Phoenix (Harry Potter #5)",
+    "Author": "Rowling, J. K.",
+    "ShelfLocation": null,
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Harry Potter And The Half Blood Prince (Harry Potter #6)",
+    "Author": "Rowling, J. K.",
+    "ShelfLocation": null,
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Harry Potter And The Deathly Hallows (Harry Potter #7)",
+    "Author": "Rowling, J. K.",
+    "ShelfLocation": null,
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Complete Jack The Ripper",
+    "Author": "Rumbelow, Donald",
+    "ShelfLocation": null,
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Tell Me I'm Worthless",
+    "Author": "Rumfitt, Alison",
+    "ShelfLocation": "3.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Female Man",
+    "Author": "Russ, Joanna",
+    "ShelfLocation": "1.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Wasp",
+    "Author": "Russel, Eric Frank",
+    "ShelfLocation": "1.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Only One Left",
+    "Author": "Sager, Riley",
+    "ShelfLocation": "1.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Middle Of The Night",
+    "Author": "Sager, Riley",
+    "ShelfLocation": "1.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Catcher In The Rye",
+    "Author": "Salinger, J.D.",
+    "ShelfLocation": "3.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Frugal Wizard's Guide For Surviving Medieval England",
+    "Author": "Sanderson, Brandon",
+    "ShelfLocation": "3.4",
+    "IsReadByJay": true,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Way Of Kings (The Stormlight Archive Book 1)",
+    "Author": "Sanderson, Brandon",
+    "ShelfLocation": "1.1",
+    "IsReadByJay": true,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Words of Radiance (The Stormlight Archive Book 2)",
+    "Author": "Sanderson, Brandon",
+    "ShelfLocation": "1.1",
+    "IsReadByJay": true,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Oathbringer (The Stormlight Archive Book 3)",
+    "Author": "Sanderson, Brandon",
+    "ShelfLocation": "1.1",
+    "IsReadByJay": true,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Rhythm of War (The Stormlight Archive Book 4)",
+    "Author": "Sanderson, Brandon",
+    "ShelfLocation": "1.1",
+    "IsReadByJay": true,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Wind And Truth (The Stormlight Archive Book 5)",
+    "Author": "Sanderson, Brandon",
+    "ShelfLocation": "1.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Dominion",
+    "Author": "Sansom, C.J.",
+    "ShelfLocation": "3.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Seven Empty Houses",
+    "Author": "Schweblin, Samanta",
+    "ShelfLocation": "2.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Lovely Bones",
+    "Author": "Sebold, Alice",
+    "ShelfLocation": "3.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Wilt",
+    "Author": "Sharpe, Tom",
+    "ShelfLocation": "3.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "We Need To Talk About Kevin",
+    "Author": "Shriver, Lionel",
+    "ShelfLocation": "3.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Real Book Of Prehistoric Life",
+    "Author": "Shuttlesworth, Dorothy",
+    "ShelfLocation": "1.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Maus",
+    "Author": "Spiegelman, Art",
+    "ShelfLocation": "4.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Camp Zero",
+    "Author": "Sterling, Michelle Min",
+    "ShelfLocation": "2.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Help",
+    "Author": "Stockett, Kathryn",
+    "ShelfLocation": "3.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Dracula",
+    "Author": "Stoker, Bram",
+    "ShelfLocation": "1.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Roadside Picnic",
+    "Author": "Strugatsky, Arkady & Boris",
+    "ShelfLocation": "1.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Flight Of The Eisenstein (The Horus Heresy)",
+    "Author": "Swallow, James",
+    "ShelfLocation": "4.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Ghost Lover",
+    "Author": "Taddeo, Lisa",
+    "ShelfLocation": "2.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Battle Royale",
+    "Author": "Tahami, Houshun",
+    "ShelfLocation": "3.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Any Man",
+    "Author": "Tamblyn, Amber",
+    "ShelfLocation": "3.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Cage Of Souls",
+    "Author": "Tchaikovsky, Adrian",
+    "ShelfLocation": "3.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Children Of Memory",
+    "Author": "Tchaikovsky, Adrian",
+    "ShelfLocation": "3.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Bringing Down The Krays",
+    "Author": "Teale, Bobby",
+    "ShelfLocation": "3.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Grass",
+    "Author": "Tepper, Sherri S.",
+    "ShelfLocation": "1.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Man Who Fell To Earth",
+    "Author": "Tevis, Walter",
+    "ShelfLocation": "1.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Before & After",
+    "Author": "Thomas, Matthew",
+    "ShelfLocation": "4.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Terror Firma",
+    "Author": "Thomas, Matthew",
+    "ShelfLocation": "4.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Far From The Light Of Heaven",
+    "Author": "Thompson, Tade",
+    "ShelfLocation": "3.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Bury Your Gays",
+    "Author": "Tingle, Chuck",
+    "ShelfLocation": "4.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Camp Damscus",
+    "Author": "Tingle, Chuck",
+    "ShelfLocation": "4.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Silmarillion",
+    "Author": "Tolkein, J R R",
+    "ShelfLocation": "1.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Fellowship Of The Ring (The Lord Of The Rings #1)",
+    "Author": "Tolkein, J R R",
+    "ShelfLocation": "1.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Two Towers (The Lord Of The Rings #2)",
+    "Author": "Tolkein, J R R",
+    "ShelfLocation": "1.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Return Of The King (The Lord Of The Rings #3)",
+    "Author": "Tolkein, J R R",
+    "ShelfLocation": "1.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Hobbit",
+    "Author": "Tolkein, J R R",
+    "ShelfLocation": "1.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "War And Peace",
+    "Author": "Tolstoy, Leo",
+    "ShelfLocation": "4.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Cabin At The End Of The World",
+    "Author": "Tremblay, Paul",
+    "ShelfLocation": "4.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Horror Movie",
+    "Author": "Tremblay, Paul",
+    "ShelfLocation": "4.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Pallbearer's Club",
+    "Author": "Tremblay, Paul",
+    "ShelfLocation": "4.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Survivor Song",
+    "Author": "Tremblay, Paul",
+    "ShelfLocation": "4.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Strange Pictures",
+    "Author": "Uketsu",
+    "ShelfLocation": "4.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Strange Houses",
+    "Author": "Uketsu",
+    "ShelfLocation": "4.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Annihilation",
+    "Author": "Vandermeer, Jeff",
+    "ShelfLocation": "4.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Hummingbird Salamander",
+    "Author": "Vandermeer, Jeff",
+    "ShelfLocation": "4.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Out There Screaming",
+    "Author": "various",
+    "ShelfLocation": "1.2",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Ghosts From The Library",
+    "Author": "various",
+    "ShelfLocation": "1.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Eight Ghosts",
+    "Author": "various",
+    "ShelfLocation": "1.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "That Glimpse Of Truth",
+    "Author": "various",
+    "ShelfLocation": null,
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "My Husband",
+    "Author": "Ventura, Maud",
+    "ShelfLocation": "4.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Five Weeks In A Balloon (Novels Collection)",
+    "Author": "Verne, Jules",
+    "ShelfLocation": "1.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "A Journey To The Centre Of The Earth (Novels Collection)",
+    "Author": "Verne, Jules",
+    "ShelfLocation": "1.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "From The Earth To The Moon (Novels Collection)",
+    "Author": "Verne, Jules",
+    "ShelfLocation": "1.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Round The Moon (Novels Collection)",
+    "Author": "Verne, Jules",
+    "ShelfLocation": "1.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Twenty Thousand Leagues Under The Sea (Novels Collection)",
+    "Author": "Verne, Jules",
+    "ShelfLocation": "1.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Around The World In Eighty Days (Novels Collection)",
+    "Author": "Verne, Jules",
+    "ShelfLocation": "1.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Mysterious Island (Novels Collection)",
+    "Author": "Verne, Jules",
+    "ShelfLocation": "1.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Sirens Of Titan",
+    "Author": "Vonnegut, Kurt",
+    "ShelfLocation": "1.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Slaughterhouse Five",
+    "Author": "Vonnegut, Kurt",
+    "ShelfLocation": "4.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Project Hail Mary",
+    "Author": "Weir, Andy",
+    "ShelfLocation": "4.1",
+    "IsReadByJay": true,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "How To Become The Dark Lord And Die Trying (Dark Lord Davi #1)",
+    "Author": "Wexler, Django",
+    "ShelfLocation": "4.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Noise Revealed",
+    "Author": "Whates, Ian",
+    "ShelfLocation": null,
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Mister Magic",
+    "Author": "White, Kiersten",
+    "ShelfLocation": "4.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Picture Of Dorian Gray",
+    "Author": "Wilde, Oscar",
+    "ShelfLocation": "2.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "The Velveteen Rabbit",
+    "Author": "Williams, Margery",
+    "ShelfLocation": "1.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Dread Empire's Fall (The Praxis)",
+    "Author": "Williams, Walter Jon",
+    "ShelfLocation": "4.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Dread Empire's Fall (The Sundering)",
+    "Author": "Williams, Walter Jon",
+    "ShelfLocation": "4.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "To Say Nothing Of The Dog",
+    "Author": "Willis, Connie",
+    "ShelfLocation": "1.4",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Think Again",
+    "Author": "Wilson, Jacqueline",
+    "ShelfLocation": "4.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "This Book Is Full Of Spiders",
+    "Author": "Wong, David",
+    "ShelfLocation": "4.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "John Dies At The End",
+    "Author": "Wong, David",
+    "ShelfLocation": "1.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "What The Hell Did I Just Read",
+    "Author": "Wong, David",
+    "ShelfLocation": null,
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "The Natural Way Of Things",
+    "Author": "Wood, Charlotte",
+    "ShelfLocation": null,
+    "IsReadByJay": false,
+    "IsReadByGemma": false
+  },
+  {
+    "Title": "Call The Midwife",
+    "Author": "Worth, Jennifer",
+    "ShelfLocation": null,
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Shadows Of The Workhouse",
+    "Author": "Worth, Jennifer",
+    "ShelfLocation": null,
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Nightbitch",
+    "Author": "Yoder, Rachel",
+    "ShelfLocation": "4.1",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Tomorrow And Tomorrrow And Tomorrow",
+    "Author": "Zevin, Gabrielle",
+    "ShelfLocation": "1.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Elsewhere",
+    "Author": "Zevin, Gabrielle",
+    "ShelfLocation": "2.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
+  },
+  {
+    "Title": "Julie Chan Is Dead",
+    "Author": "Zhang, Liann",
+    "ShelfLocation": "1.3",
+    "IsReadByJay": false,
+    "IsReadByGemma": true
   }
 ]

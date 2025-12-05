@@ -10,6 +10,6 @@ public interface IBookService
     /// <summary>
     ///     Fetch all books from the library.
     /// </summary>
-    /// <returns>An <see cref="Book"/> array of books</returns>
+    /// <returns>An <see cref="Book" /> array of books</returns>
     ICollection<Book> GetBooks();
 }

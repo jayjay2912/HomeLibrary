@@ -1,11 +1,10 @@
+using AutoMapper;
 using Gemstone.HomeLibrary.Dto;
-using Gemstone.HomeLibrary.Models;
 using Gemstone.HomeLibrary.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Azure.Functions.Worker;
 using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Logging;
 
 namespace Gemstone.HomeLibrary.Endpoints;
 
@@ -15,6 +14,7 @@ namespace Gemstone.HomeLibrary.Endpoints;
 public class GetBooks(IServiceProvider services)
 {
     private readonly IBookService _bookService = services.GetRequiredService<IBookService>();
+    private readonly IMapper _mapper = services.GetRequiredService<IMapper>();
 
     [Function("GetBooks")]
     public IActionResult Run([HttpTrigger(AuthorizationLevel.Anonymous, "get", "post")] HttpRequest req)
@@ -24,7 +24,7 @@ public class GetBooks(IServiceProvider services)
         return new JsonResult(new BooksResponse
         {
             Message = "Books retrieved.",
-            Books = books
+            Books = _mapper.Map<List<BookDto>>(books)
         });
     }
 }
