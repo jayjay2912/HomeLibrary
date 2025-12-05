@@ -3,7 +3,7 @@ import {Book} from './book';
 /**
  * LibraryResponse response.
  */
-export interface LibraryResponse {
+export interface Library {
   message: string,
   books: Book[]
 }

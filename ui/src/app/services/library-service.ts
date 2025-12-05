@@ -1,6 +1,6 @@
 import {inject, Injectable} from '@angular/core';
 import {HttpClient} from '@angular/common/http';
-import {LibraryResponse} from '../interfaces/library-response';
+import {Library} from '../interfaces/library';
 
 @Injectable({
   providedIn: 'root',
@@ -15,6 +15,6 @@ export class LibraryService {
    * Fetch books from the library.
    */
   public getLibrary() {
-    return this.http.get<LibraryResponse>('/api/GetBooks');
+    return this.http.get<Library>('/api/GetBooks');
   }
 }
