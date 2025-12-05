@@ -11,7 +11,7 @@ jobs:
        contents: read
     steps:
       # Checkout the repo
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v6
       # Install the required Node & .Net versions
       - name: Setup Node.js
         uses: actions/setup-node@v3

@@ -20,7 +20,7 @@ jobs:
        contents: read
     steps:
       # Checkout the repo
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v6
       # Deploy the application to Azure Static Web Apps
       # For more information regarding Static Web App workflow configurations, please visit: https://aka.ms/swaworkflowconfig
       - name: Deploy
