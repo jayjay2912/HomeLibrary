@@ -13,6 +13,7 @@ updates:
       style:
         patterns:
         - '@tailwindcss/*'
+        - 'tailwindcss'
         - 'tailwindcss-primeui'
         - '@primeuix/*'
         - 'primeng'
