@@ -14,11 +14,11 @@ jobs:
       - uses: actions/checkout@v6
       # Install the required Node & .Net versions
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v6
         with:
           node-version: '22'
       - name: Setup .NET
-        uses: actions/setup-dotnet@v3
+        uses: actions/setup-dotnet@v5
         with:
           dotnet-version: '8.0.x'
       # Build the application to ensure it builds successfully
