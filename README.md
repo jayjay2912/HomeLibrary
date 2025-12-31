@@ -10,7 +10,7 @@ The site is accessible at https://thankful-ground-0bfa2ce03.3.azurestaticapps.ne
 
 #### UI
 
-Node v22.x, Angular, PrimeNg, Tailwind
+Node v22.x, Angular v21.x, PrimeNg v21.x, Tailwind
 
 #### API
 
