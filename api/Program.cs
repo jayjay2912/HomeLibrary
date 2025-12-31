@@ -1,5 +1,4 @@
 using Gemstone.HomeLibrary.Mapper;
-using Gemstone.HomeLibrary.Services;
 using Microsoft.Azure.Functions.Worker;
 using Microsoft.Azure.Functions.Worker.Builder;
 using Microsoft.Extensions.DependencyInjection;
@@ -13,7 +12,6 @@ builder.Services
     .AddApplicationInsightsTelemetryWorkerService()
     .ConfigureFunctionsApplicationInsights()
     .AddMemoryCache()
-    .AddAutoMapper(typeof(MappingProfile))
-    .AddScoped<IBookService, BookService>();
+    .AddAutoMapper(typeof(MappingProfile));
 
 builder.Build().Run();
