@@ -1,23 +1,33 @@
-# HomeLibrary.Web
+# Home Library
 
-Home Library project
+Home Library project. This is a simple, static website that lists our books.
 
-## Running
+### Visiting
 
-Use the [Static Web Apps CLI](https://learn.microsoft.com/en-us/azure/static-web-apps/static-web-apps-cli-install).
+The site is accessible at https://thankful-ground-0bfa2ce03.3.azurestaticapps.net/
 
-From the root repository directory:
-```shell
-swa start
-```
+### Technologies
 
-## UI
+#### UI
 
-The UI is an Angular application hosted in a Static Web App.
+Node v22.x, Angular, PrimeNg, Tailwind
 
-## API
+#### API
 
-The API is a managed Azure Function behind the Static Web App.
+.Net 9, Azure Function
+
+### Running
+
+To run the application locally you will need to be setup to run an Azure Static Web App for [local development](https://learn.microsoft.com/en-us/azure/static-web-apps/local-development).
+Once ready, run `swa start` to start it. The application will then be accessible on http://localhost:4280
+
+### Hosting
+
+Both the `ui` and `api` applications are built and deployed to an Azure Static Web App.
+
+### Environments & Deployment
+
+There is a single hosting environment. Deployments can be triggered manually for any branch, and they are triggered automatically for any merges into `master`.
 
 ### Database
 
@@ -46,3 +56,4 @@ CREATE TABLE dbo.Books (
 	IsReadByGemma bit DEFAULT 0 NULL
 );
 ```
+

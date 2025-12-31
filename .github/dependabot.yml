@@ -6,15 +6,35 @@ updates:
     directory: "/ui"
     schedule:
       interval: "monthly"
+    groups:
+      angular:
+        patterns:
+        - '@angular/*'
+      style:
+        patterns:
+        - '@tailwindcss/*'
+        - 'tailwindcss'
+        - 'tailwindcss-primeui'
+        - '@primeuix/*'
+        - 'primeng'
+        - 'postcss'
 
   # Enable version updates for Nuget
   - package-ecosystem: "nuget"
     directory: "/api"
     schedule:
       interval: "monthly"
+    groups:
+      dotnet:
+        patterns:
+        - '*'
 
   # Enable version updates for GitHub Actions
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
       interval: "monthly"
+    groups:
+      actions:
+        patterns:
+        - '*'
